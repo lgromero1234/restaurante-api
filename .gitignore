@@ -1,0 +1,15 @@
+# Contraseñas y variables privadas
+.env
+.env.*
+!.env.example
+!.env.docker.example
+
+# Archivos compilados de Maven
+target/
+
+# Configuraciones de IntelliJ
+.idea/
+*.iml
+
+# Archivos temporales
+*.log

@@ -1,0 +1,16 @@
+target/
+.git/
+.gitignore
+.idea/
+.vscode/
+*.iml
+*.zip
+*.log
+.env
+.env.*
+!.env.docker.example
+README.md
+GUIA_*.md
+postman/
+database/
+.DS_Store
